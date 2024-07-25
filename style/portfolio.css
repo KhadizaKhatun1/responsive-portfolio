@@ -240,6 +240,9 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     .banner-profile-pic{
         width: 100%;
     }
+    .btn-primary{
+        margin-bottom: 20px;
+    }
     footer,.about{
         padding: 20px;
     }
